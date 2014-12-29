@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShowLove8</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_string">Im learning how its done!</string>
+	<string name="total">Your total is 0</string>
+	<string name="add">Add One</string>
+	<string name="sub">Take One Away</string>
+	
+	
+    
+</resources>
